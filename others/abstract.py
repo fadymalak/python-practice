@@ -1,5 +1,5 @@
 from abc import ABC, ABCMeta, abstractmethod
-from typing import Union, final, List, Any 
+from typing import Union, final, List, Any
 
 
 class FileLoader(ABC):
